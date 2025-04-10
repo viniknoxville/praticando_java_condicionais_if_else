@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/00_exemplo/00_exemplo.iml" filepath="$PROJECT_DIR$/00_exemplo/00_exemplo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01_verificando_se_um_numero_e_par_ou_impar/01_verificando_se_um_numero_e_par_ou_impar.iml" filepath="$PROJECT_DIR$/01_verificando_se_um_numero_e_par_ou_impar/01_verificando_se_um_numero_e_par_ou_impar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_verificando_aprovacao_em_uma_disciplina/02_verificando_aprovacao_em_uma_disciplina.iml" filepath="$PROJECT_DIR$/02_verificando_aprovacao_em_uma_disciplina/02_verificando_aprovacao_em_uma_disciplina.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_validacao_de_senha/03_validacao_de_senha.iml" filepath="$PROJECT_DIR$/03_validacao_de_senha/03_validacao_de_senha.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_comparando_dois_numeros/04_comparando_dois_numeros.iml" filepath="$PROJECT_DIR$/04_comparando_dois_numeros/04_comparando_dois_numeros.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05_verificacao_de_desconto_em_compras/05_verificacao_de_desconto_em_compras.iml" filepath="$PROJECT_DIR$/05_verificacao_de_desconto_em_compras/05_verificacao_de_desconto_em_compras.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06_verificacao_de_dia_util/06_verificacao_de_dia_util.iml" filepath="$PROJECT_DIR$/06_verificacao_de_dia_util/06_verificacao_de_dia_util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07_verificando_se_um_numero_esta_em_um_intervalo/07_verificando_se_um_numero_esta_em_um_intervalo.iml" filepath="$PROJECT_DIR$/07_verificando_se_um_numero_esta_em_um_intervalo/07_verificando_se_um_numero_esta_em_um_intervalo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/praticando_java_condicionais_if_else.iml" filepath="$PROJECT_DIR$/praticando_java_condicionais_if_else.iml" />
+    </modules>
+  </component>
+</project>
