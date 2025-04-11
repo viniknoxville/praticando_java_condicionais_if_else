@@ -15,6 +15,8 @@ A etapa **Tech Foundation** representa a base da formação, abordando conceitos
 
 Neste curso, foi possível revisar e praticar estruturas condicionais utilizando a linguagem Java. Foram aplicados conceitos fundamentais de tomada de decisão por meio de `if` e `else`, simulando cenários do cotidiano da programação.
 
+---
+
 ### ✅ Exercícios propostos
 
 - `if` e `else` em diferentes contextos
