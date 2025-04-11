@@ -1,4 +1,4 @@
-![Banner](img/one.png)
+![Banner](img/ONE.png)
 
 # ONE | Tech Foundation – Especialização Back-End
 
