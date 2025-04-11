@@ -1,10 +1,17 @@
-# 🧠 Praticando Java: Condicionais If e Else
+![Banner](img/one.png)
 
-Este repositório faz parte do programa **Oracle Next Education (ONE)** em parceria com a **Alura** e reúne os exercícios desenvolvidos durante o curso **"Praticando Java: condicionais if e else"**.
+# ONE | Tech Foundation – Especialização Back-End
+
+O **Oracle Next Education (ONE)** é um programa de formação em tecnologia promovido pela **Oracle**, em parceria com a **Alura**. Seu objetivo é capacitar novos talentos por meio de uma trilha completa de desenvolvimento pessoal e técnico.
+
+A etapa **Tech Foundation** representa a base da formação, abordando conceitos fundamentais de programação, lógica computacional, inteligência artificial e habilidades comportamentais, preparando os participantes para áreas mais específicas, como o **Back-End**.
+
+🔗 Saiba mais:
+- [Oracle Next Education](https://www.oracle.com/br/education/oracle-next-education/)
+- [Alura](https://www.alura.com.br/)
 
 ---
-
-## 📌 Sobre o curso
+# 🧠 Praticando Java: Condicionais If e Else
 
 Neste curso, foi possível revisar e praticar estruturas condicionais utilizando a linguagem Java. Foram aplicados conceitos fundamentais de tomada de decisão por meio de `if` e `else`, simulando cenários do cotidiano da programação.
 
